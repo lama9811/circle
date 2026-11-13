@@ -1,0 +1,10 @@
+target/
+node_modules/
+dist/
+.env
+.env.local
+.vercel
+.DS_Store
+.playwright-mcp/
+demo/audio/
+*.tsbuildinfo
